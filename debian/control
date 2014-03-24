@@ -1,13 +1,13 @@
+Source: debathena-mit-automounter
 Section: debathena/net
 Priority: extra
-Standards-Version: 3.6.2
+Standards-Version: 3.9.3
+Maintainer: Debathena Project <debathena@mit.edu>
+Build-Depends: debhelper (>= 7)
 
 Package: debathena-mit-automounter
-Version: 0.1.1
-Maintainer: Debathena Project <debathena@mit.edu>
+Architecture: all
 Depends: debathena-pyhesiodfs
-Copyright: ../common/copyright
-Readme: ../common/README-meta.in
 Description: /mit Automounter for Debathena
  This package depends on the current /mit automounter mechanism being
  used by Debathena. It is otherwise empty, so you may safely remove

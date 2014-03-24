@@ -1,0 +1,11 @@
+debathena-mit-automounter (0.1.2) unstable; urgency=low
+
+  * Convert the package from equivs to proper package
+
+ -- Victor Vasiliev <vasilvv@mit.edu>  Tue, 11 Mar 2014 11:26:23 -0400
+
+debathena-mit-automounter (0.1.1) unstable; urgency=low
+
+  * First version
+
+ -- Debathena Project <debathena@mit.edu>  Mon, 02 Mar 2009 11:59:06 -0500
